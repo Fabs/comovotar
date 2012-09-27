@@ -1,4 +1,4 @@
 comovotar
 =========
 
-Livro com explicações, e estratégias de como um cidadão comum pode escolher de forma eficiente um governante. 
+![My image](fabs.github.com/comovotar/sobre.png)
